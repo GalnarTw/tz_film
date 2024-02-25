@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "280135394643",
+    "project_id": "tzfilm-fe94f",
+    "storage_bucket": "tzfilm-fe94f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280135394643:android:ff6dc397d34b6b3712ada6",
+        "android_client_info": {
+          "package_name": "com.example.tz_film"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbBsmy39FTMiJ41AjLeF6uEkfbYHmC_JA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
